@@ -1,0 +1,42 @@
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+
+}
+.menu{
+    color: #2E2F42;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 0.66;
+}
+.main-nav {
+
+}
+.logo-text1 {
+color: #4D5AE5;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 0.75;
+
+}
+.logo-text2 {
+color: #2E2F42;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 0.75;
+}
+.hero-titel {
+
+}
